@@ -3,7 +3,9 @@ import media
 
 
 rogue_one = media.Movie("Rogue One:", 
-					   "Jyn Erso leads the Rebel Alliance in a risky move to steal the plans for the Death Star, setting up the epic saga to follow. ", 
+					   """Jyn Erso leads the Rebel Alliance in a risky move 
+					   to steal the plans for the Death Star, 
+					   setting up the epic saga to follow.""",
 					   "http://a.dilcdn.com/bl/wp-content/uploads/sites/6/2016/12/rogue-one-novelization.jpg",
 					   "https://www.youtube.com/watch?v=frdj1zb9sMY")
 
